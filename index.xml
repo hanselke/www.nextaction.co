@@ -2,11 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kanban based business management system</title>
-    <link>/www.nextaction.co/index.xml</link>
+    <link>www.nextaction.co/</link>
     <description>Recent content on Kanban based business management system</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/www.nextaction.co/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="www.nextaction.co/index.xml" rel="self" type="application/rss+xml" />
+    
     
   </channel>
 </rss>
